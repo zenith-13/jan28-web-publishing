@@ -1,3 +1,8 @@
+---
+title: "my collab homepage"
+author: "z. mccullough"
+---
+
 # building websites with github
 
 ## description
@@ -5,6 +10,7 @@
 
 [about this website](about.md)
 
-this page was rendered at {{ site.time }}
+this page was rendered at {{ site.time }}.
+author: {{ page.author }}
 
 have any questions? [please contact us via email](mailto:{{ site.email }})
