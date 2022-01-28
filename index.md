@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "my collab homepage"
 author: "z. mccullough"
 ---
