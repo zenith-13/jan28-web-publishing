@@ -7,4 +7,4 @@
 
 this page was rendered at {{ site.time }}
 
-have any questions? [please contact us via email](email:{{ site.email }})
+have any questions? [please contact us via email](mailto:{{ site.email }})
