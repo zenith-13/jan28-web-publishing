@@ -3,6 +3,8 @@ title: "my collab homepage"
 author: "z. mccullough"
 ---
 
+{% include navigation.html %}
+
 # building websites with github
 
 ## description
