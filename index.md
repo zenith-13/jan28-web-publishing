@@ -1,6 +1,10 @@
 # building websites with github
 
 ## description
-right now i am adding a description under the description second heading in my index file :)
+{{ site.description }}
 
 [about this website](about.md)
+
+this page was rendered at {{ site.time }}
+
+have any questions? [please contact us via email](email:{{ site.email }})
