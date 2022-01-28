@@ -21,3 +21,12 @@ we are a proud member of [Carpentries Webpage](https://carpentries.org/)
 - software carpentry
 - data carpentry
 - library carpentry
+
+## here is a second level heading
+here's some text under the second level heading that includes a link [to the cheat sheet](https://www.markdownguide.org/basic-syntax/) and some ~~strikethrough text~~
+
+### here's a third level heading
+1. and
+2. a
+3. numbered
+4. list
