@@ -20,3 +20,5 @@ you can cite the project as:
 -  thanks!
 
 [go home](index.md)
+
+{% include footer.html %}
